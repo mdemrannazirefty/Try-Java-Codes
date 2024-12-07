@@ -1,0 +1,25 @@
+
+
+
+Customer Name: Md. Asheke Rabbi
+Customer Phone Number: 01566666666
+Customer Address: D-3,Civil Aviation Quarter
+Total bill: 140.4
+Time and Date: Tue Dec 14 09:57:29 BDT 2021
+___________________________________________________________________________________
+
+
+Customer Name: Md. Hasibul Islam
+Customer Phone Number: 017888888
+Customer Address: Nikunjo
+Total bill: 28.764
+Time and Date: Tue Dec 14 09:57:29 BDT 2021
+___________________________________________________________________________________
+
+
+Customer Name: Md. Asheke Rabbi
+Customer Phone Number: 0144444444
+Customer Address: D-3
+Total bill: 48.672
+Time and Date: Tue Dec 14 10:23:13 BDT 2021
+___________________________________________________________________________________

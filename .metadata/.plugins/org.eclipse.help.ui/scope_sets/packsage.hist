@@ -1,0 +1,4 @@
+#Tue Oct 25 17:22:14 BDT 2022
+__DEFAULT__=false
+expression=packsage
+org.eclipse.help.ui.localSearch.master=true

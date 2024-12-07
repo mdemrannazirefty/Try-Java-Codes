@@ -1,0 +1,88 @@
+public class Department {
+	int deptId;
+	String depName;
+	
+	Department() {
+		super();
+	}
+	Department(int deptId, String depName) {
+		this.deptId = deptId;
+		this.depName = depName;
+	}
+	
+	void setDepName(String depName) {
+		this.depName = depName;
+	}
+	String getDepName() {
+		return depName;
+	}
+	
+	void setDeptId(int deptId) {
+		this.deptId = deptId;
+	}
+	int getDeptId() {
+		return deptId;
+	}
+}
+
+class Employee {
+	String empName;
+	double salary;
+	
+	Employee() {
+		super();
+	}
+	Employee(String empName, double salary) {
+		this.empName = empName;
+		this.salary = salary;
+	}
+	
+	void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	String getEmpName() {
+		return empName;
+	}
+	
+	void setSalary(double salary) {
+		this.salary = salary;
+	}
+	double getSalary() {
+		return salary;
+	}
+}
+
+class Faculty extends Employee{
+	int teachingHour;
+	Department dept;
+	
+	Faculty() {
+		super();
+	}
+	Faculty(String empName, double salary, int th, Department d) {
+		super();
+		teachingHour = th;
+	}
+
+	void setTeachingHour(double th) {
+		teachingHour = (int)th;
+	}
+	double getTeachingHour() {
+		return teachingHour;
+	}
+
+	void setDept(Department d) {
+		dept = d;
+	}
+	Department getDept() {
+		return dept;
+	}
+	
+	void showInfo() {
+		System.out.println("Name: ");
+		System.out.println("Salary: ");
+		System.out.println("Teaching Hour: ");
+		System.out.println("Department Name: ");
+	}	
+}
+

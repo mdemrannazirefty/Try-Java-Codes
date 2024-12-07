@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Efty\Try Java Codes\.metadata\.plugins\org.eclipse.jdt.core
+3011209426.index
+1212975526.index
+2031630650.index
+4077181896.index
+1901201092.index
+1865797976.index
+205553352.index
+2028565539.index

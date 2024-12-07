@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: LibreBaskerville-Bold
+font link: https://fonts.google.com/specimen/Libre+Baskerville
+font author: Impallari Type
+font author site: https://twitter.com/pabloimpallari
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Gan Khoon Lay
+icon designer link: /leremy
+        
+
+fontColor: {"hex":"#0A07D6"}
+bgColor: {"hex":"#2B81A3"}
+iconColor: {"hex":"#0A07D6"}
+sloganColor: {"hex":"#000000"}
+      

@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class ValidateEmail {
+	
+	public static void main(String[]args){
+	
+		System.out.print("ENTER YOUR Email:");
+		Scanner sc= new Scanner(System.in);
+		
+        String word = sc.nextLine();
+        boolean result = word.matches("[a-zA-Z]+");
+		
+		if (result= true)
+		{
+			System.out.println("Correct Sentence");
+		}
+		else
+		{
+			System.out.println("Only Letters Are Accepted");
+		}
+	}
+}

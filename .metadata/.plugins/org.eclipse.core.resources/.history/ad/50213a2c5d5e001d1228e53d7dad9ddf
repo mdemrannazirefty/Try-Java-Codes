@@ -1,0 +1,7 @@
+public class ValidateEmail {
+	
+	public static void main(String[]args){
+	String email;
+	
+
+}

@@ -1,0 +1,12 @@
+public class ValidateEmail {
+	
+	public static void main(String[]args){
+	String email;
+	
+	Scanner sc=new Scanner(System.in);
+	
+	System.out.print("Enter Your Name: " );
+	String name=sc.nextLine();
+	
+
+}

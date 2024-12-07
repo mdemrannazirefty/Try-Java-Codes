@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class ValidateEmail {
+	
+	public static void main(String[]args){
+		String word;
+	
+		System.out.print("ENTER YOUR Email:");
+		Scanner sc= new Scanner(System.in);
+		
+        String wd = sc.nextLine();
+		
+		if (wd= ("a-zA-Z0-9@.+");
+		{
+			System.out.println("Valid Email");
+		}
+
+		else 
+		{
+			System.out.println("Invalid Email");
+		}
+	}
+}
